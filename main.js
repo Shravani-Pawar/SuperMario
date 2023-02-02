@@ -1,4 +1,4 @@
-
+console.log("Source Code-Linuk||Game Credits:Mario");
 function preload() {
 	world_start = loadSound("world_start.wav");
 	setSprites();
