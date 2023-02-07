@@ -1,5 +1,6 @@
 # SuperMario
 Source Code-Linuk||Game Credits:Mario
+Status-Completed :)
 
 
 Target-Make a mario game which takes your nose x and y coordinate as input to move the mario-up,right,left.
@@ -14,11 +15,8 @@ Progress-
 
 *Mario moves left and right.
 
-*GAME CODE COMPLETE
+*Sound effects and add some basic functionality added
+
+*GAME CODE COMPLETE!
 
 
-
-
-To do--
-
-*Add sound effects and add some basic functionality.
